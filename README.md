@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<details>
+  <summary>⚡ Github Stats</summary>
+  <img align="left" alt="Vinny Github stats" src="github-readme-stats-omega-nine-33.vercel.app"
+  
+</details>
+
 <!--
 **TheLastViny/TheLastViny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
