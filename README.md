@@ -2,8 +2,9 @@
 
 <details>
   <summary>⚡ Github Stats</summary>
-  [![Top Langs](https://github-readme-stats-omega-nine-33.vercel.app/api/top-langs/?api?username=TheLastViny&show_icons=true&theme=dark)]
-  <img align="left" alt="Vinny Github stats" src="https://github-readme-stats-omega-nine-33.vercel.app/api?username=TheLastViny&show_icons=true&theme=dark"/>
+![Top Langs](https://github-readme-stats-omega-nine-33.vercel.app/api/top-langs/?username=TheLastViny&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats-omega-nine-33.vercel.app/api?username=TheLastViny&show_icons=true&theme=dark)
   
 </details>
 
