@@ -2,7 +2,7 @@
 
 <details>
   <summary>⚡ Github Stats</summary>
-  <img align="left" alt="Vinny Github stats" src="https://github-readme-stats-omega-nine-33.vercel.app"
+  <img align="left" alt="Vinny Github stats" src="https://github-readme-stats-omega-nine-33.vercel.app/api?username=TheLastViny&show_icons=true&theme=dark"/>
   
 </details>
 
