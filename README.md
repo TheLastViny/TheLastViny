@@ -3,7 +3,7 @@
 <details>
   <summary>⚡ Github Stats</summary>
 
-![Top Langs](https://github-readme-stats-omega-nine-33.vercel.app/api/top-langs/?username=TheLastViny&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats-omega-nine-33.vercel.app/api/top-langs/?username=TheLastViny)
 
 ![GitHub Stats](https://github-readme-stats-omega-nine-33.vercel.app/api?username=TheLastViny&show_icons=true&theme=dark)
   
