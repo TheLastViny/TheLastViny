@@ -3,9 +3,9 @@
 <details>
   <summary>⚡ Github Stats</summary>
 
-![Top Langs](https://github-readme-stats-omega-nine-33.vercel.app/api/top-langs/?username=TheLastViny&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-5jbo.vercel.app/api/top-langs/?username=TheLastViny&show_icons=true&theme=dark)
 
-![GitHub Stats](https://github-readme-stats-omega-nine-33.vercel.app/api?username=TheLastViny&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-5jbo.vercel.app/api?username=TheLastViny&show_icons=true&theme=dark)
   
 </details>
 
