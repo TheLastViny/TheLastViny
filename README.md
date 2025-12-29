@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<!--START_SECTION:activity-->
+
 <details>
   <summary>⚡ Github Stats</summary>
 
