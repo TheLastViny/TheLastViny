@@ -3,9 +3,9 @@
 <details>
   <summary>⚡ Github Stats</summary>
 
-![Top Langs](https://github-readme-stats-lo1b.vercel.app/api/top-langs/?username=TheLastViny&hide=PowerShell,ShaderlAB&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-ptdd.vercel.app/api/top-langs/?username=TheLastViny&hide=PowerShell,ShaderlAB&show_icons=true&theme=dark)
 
-![GitHub Stats](https://github-readme-stats-lo1b.vercel.app/api?username=TheLastViny&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-ptdd.vercel.app/api?username=TheLastViny&show_icons=true&theme=dark)
   
 </details>
 
